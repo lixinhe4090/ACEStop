@@ -13,7 +13,7 @@
 
 ## Quick Start
 1. Download or clone this repository
-2. Right-click `ACEover.bat` → **“Run as Administrator”**
+2. Right-click `ACEStop.bat` → **“Run as Administrator”**
 3. Keep the window open; to exit, press `Ctrl C → Y → Enter`
 
 ## Directory Structure

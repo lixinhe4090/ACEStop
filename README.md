@@ -1,4 +1,4 @@
-# ACEover
+# ACEStop
 
 > Auto-config priority & CPU affinity for ACE anti-cheat processes
 > **MIT License** | Copyright © 2025 Qianhe RUAEISA
@@ -18,13 +18,13 @@
 
 ## Directory Structure
 
-ACEover/
-├── ACEover.bat # Main script (English output, UTF-8)
+ACEStop/
+├── ACEStop.bat # Main script (English output, UTF-8)
 ├── README.md # This file
 └── .gitignore # Git ignore rules
 
 ## System Requirements
-- Windows 10/11 (PowerShell 5)
+- Windows 10/11 (PowerShell admin)
 - Administrator privileges (required to modify process affinity)
 
 ## License
